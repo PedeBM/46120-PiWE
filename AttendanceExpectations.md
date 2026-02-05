@@ -26,7 +26,7 @@ It is expected that you shall...
     * Ensure adequate streaming bandwidth to allow active participation in class, also when your video is on  
     * Be active during class, accept invitations to breakout rooms (BORs) promptly  
     * Turn off your video and microphone when instructor is lecturing  
-    * UNLESS you have a question -- then write in Zoom chat or unmute/ask verbally    
+    * UNLESS you have a question -- then raise your Zoom hand, write in Zoom chat or unmute/ask verbally    
     * Turn ON your video when working on exercises in BORs  
     * Ask colleagues to turn on video when working on exercises OR agree in your group what your video policy is  
     * When working in BORs, reach out to the online TA if you need assistance
