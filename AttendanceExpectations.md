@@ -46,6 +46,8 @@ It is expected that you shall...
 
  * Thursdays, **9:00(!!)** to 12:00
  * Physical classrooms: 208, 001/002/012
- * Virtual classroom: Zoom link on Learn page  
-
-Weekly office hours are held in the Virtual Classroom.
+ * Virtual classroom: Zoom link on Learn page
+ 
+ ## Weekly office hours
+ 
+ * Tuesdays, 13:00 to 14:00, Virtual Classroom.
