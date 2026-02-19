@@ -23,14 +23,14 @@ these areas to MSc/PhD students working in wind energy.
 | Week 3  | 19-feb  | CodeCamp I: Loading and plotting, PSD, eigenanalysis | Sign up for CodeCamp project group  |
 | Week 4  | 26-feb  | CodeCamp II: simulate_turbie()                       |                                     |
 | Week 5  | 05-mar  | Environments and communicating code                  |                                     |
-| Week 6  | 12-mar  | CodeCamp final project presentations                 | CodeCamp final project (pass/fail)  |
+| Week 6  | 12-mar  | CodeCamp final project presentations                 | CodeCamp final project due Mon. March 9 (pass/fail)  |
 | Week 7  | 19-mar  | Packaging and dependencies                           |                                     |
 | Week 8  | 26-mar  | Final project introduction                           | Sign up for final project group     |
 | EASTER  | 02-apr  | --                                                   |                                     |
 | Week 9  | 09-apr  | Classes, inheritence and OOP                         |                                     |
 | Week 10 | 16-apr  | Computational thinking and design of architecture    |                                     |
 | Week 11 | 23-apr  | Midway presentations                                 |                                     |
-| Week 12 | 30-apr  | Python on Gbar (HPC)                                 | Final project due May 3 (pass/fail) |
+| Week 12 | 30-apr  | Python on Gbar (HPC)                                 | Final project due Mon. May 4 (pass/fail) |
 | Week 13 | 07-may  | Quiz, final-project presentations                    | Peer reviews presented in class     |
 
 ### Hand-ins and grading
