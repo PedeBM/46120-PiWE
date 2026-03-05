@@ -4,11 +4,7 @@
  * Recording: on Learn
 
 
-## Homework this week: CodeCamp Final Project
+## Homework this week: CodeCamp Final Project & feedback
 
-Your homework this week is to complete the CodeCamp final project.
-The project is graded pass/fail, and you must pass this course to
-pass the project.
-
-Description, requirements, and evaluation rubric for the final
-project are in the week06 subfolder.
+Your homework this week is to complete the CodeCamp final project and submit the required feedback forms.
+Details are in the week06 folder.
