@@ -1,0 +1,35 @@
+# An extremely simple pyproject.toml
+# Many more options here: https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+
+# How to build your package. We use hatchling, wich is default on Python docs.
+# DO NOT change this without specific instructions from instructor/TA.
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# Information on the package. Update as needed.
+[project]
+name = "examplepackage"  # name of subfolder inside src/
+description = "An example package"
+version = "0.0.1"
+authors = [
+    { name = "I. M. Cool", email = "imcool@noreally.com" }
+]
+dependencies = [  # installed before your package
+    "matplotlib",
+    "numpy"
+]
+
+# (optional) Extra dependencies, e.g., for developers or power users. Update as needed.
+# editable install:  pip install -e .[dev]
+[project.optional-dependencies]
+dev = [
+    "ipykernel",
+    "pytest",
+    "pytest-cov",
+    "pylint"
+]
+
+
+[project.urls]
+Repository = "https://github.com/me/spam.git"  # where your repo is hosted. update as needed.
