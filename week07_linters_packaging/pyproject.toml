@@ -13,7 +13,8 @@ name = "examplepackage"  # name of subfolder inside src/
 description = "An example package"
 version = "0.0.1"
 authors = [
-    { name = "I. M. Cool", email = "imcool@noreally.com" }
+    { name = "I. M. Cool", email = "imcool@noreally.com" },
+    { name = "I. M. Too", email = "imalsocool@yabro.com" },
 ]
 dependencies = [  # installed before your package
     "matplotlib",
