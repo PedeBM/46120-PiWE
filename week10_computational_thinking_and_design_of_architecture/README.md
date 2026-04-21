@@ -8,8 +8,8 @@ Welcome to week 10 of this course!
 
 
 ## Reminder
-Check Week 8 for details, and rememeber the following deadline:
-* Due time of the final project: 23:59 on Sunday, May 4th, 2025.
+Check [`Week 8`](../week08_final_project_intro/) for details, and rememeber the following deadline:
+* Due time of the final project: 23:59 on Monday, May 4th, 2026.
 
 Check ther example toy package for organization and structure of code:
 https://github.com/ju-feng-dk/FinalProjectExample 
