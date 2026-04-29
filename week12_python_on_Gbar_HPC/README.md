@@ -455,6 +455,5 @@ The exercises for today are:
 
 ### Acknowledgement
 The materials on using Python on Gbar and HPC are first prepared and 
-lectured in 2024 by a DTU Compute colleague, [Nick Rübner Papior](https://www.dtu.dk/english/person/nick-rubner-papior?id=36189&entity=profile). 
+lectured in 2024 by our DTU Compute colleague, [Nick Rübner Papior](https://www.dtu.dk/english/person/nick-rubner-papior?id=36189&entity=profile). 
 We thank him for his contributions!
-   
