@@ -18,3 +18,6 @@ Currently, we have:
 
 5. [**Organize a Python Package with `pyproject.toml` and `__init__.py`**](
 5_note_on_packaging.md)
+
+6. [**Working with File Paths in Python**](
+6_note_on_file_paths.md)

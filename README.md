@@ -4,6 +4,12 @@ Modern engineering (and science) requires foundational skills in the collaborati
 creation, critical analysis and communication of code. This course gives necessary skills in
 these areas to MSc/PhD students working in wind energy.
 
+## Updates
+**A new note has been added to show how to load/save files in different paths,
+if you have questions on these issues, check here:**
+* [**Working with File Paths in Python**](
+notes_and_tips/6_note_on_file_paths.md)
+
 ## Course information
 
 * Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
@@ -75,3 +81,6 @@ notes_and_tips/4_note_on_wind_direction.md)
 
 5. [**Organize a Python Package with `pyproject.toml` and `__init__.py`**](
 notes_and_tips/5_note_on_packaging.md)
+
+6. [**Working with File Paths in Python**](
+notes_and_tips/6_note_on_file_paths.md)
